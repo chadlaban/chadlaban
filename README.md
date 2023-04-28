@@ -40,7 +40,7 @@ I'm a growing software developer and front-end developer looking for new opportu
  <summary><h3>:walking: Chad's Coding Journey</h3></summary>
    I started studying for a medical degree during my time at the university and had a computer subject that really peaked my interest and was challenging for me in a good way. I shifted my study from a medical degree to Information Technology, it was fun and at the same time challenging for me but in every requirement that I have accomplished brought genuine happiness, after graduating I landed a technical support position in a software company here in my hometown; I learned soo much but it felt like I know that I can do more than what I think I can do (don't get me wrong I appreciated working as a tech. support/analyst). The company then had internal hirings for software developers and I grabbed that chance, luckily got accepted after my 2nd try applying; During the first weeks, it was challenging since I haven't practiced coding ever since I graduated from university, it felt like I was at the first step of coding again, but luckily I had great colleagues that not only helped me but also became my mentors. As time passes I started to realize why I even liked coding, in every project that I had handled there was always something new to learn, and also having great teammates adds to an awesome experience.
    
-   I loved coding not only because there's always something new to learn about it, but because there's always a place for someone on the industry.
+   <br />I loved coding not only because there's always something new to learn about it, but because there's always a place for someone on the industry.
    
 [website]: https://rb.gy/ql6zu
 [linkedin]: https://rb.gy/glil3
