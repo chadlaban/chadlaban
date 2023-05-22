@@ -1,6 +1,6 @@
 # :alien: Chad Laban
 
-**`Digital Ambivert (Developer/Photographer/Home Cook/Curious Mind)`**
+**`Digital Ambivert (Front-End Developer/Photographer/Home Cook/Curious Mind)`**
 
 I'm a growing software developer and front-end developer looking for new opportunities to expand in my career. I love photography, food, and any ideas that's outside the box, I love to expressing my creativity through my projects and how I dress. I enjoy seeing projects grow from just ideas to actual design and code.
 
