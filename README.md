@@ -8,29 +8,29 @@ I'm a growing software developer and front-end developer looking for new opportu
 
 ### :space_invader: Tools and Languages
 
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="Vue JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="React JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="MochaJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="FileZilla" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-<img width="215px" style="padding:115px, 8px; margin-top:15px;" align="left" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="Vue JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="React JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="MochaJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="FileZilla" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img width="215px" style="padding:15px, 8px; margin-top:15px;" align="left" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <br />
 
 #
