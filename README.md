@@ -16,7 +16,9 @@ I'm a growing software developer and front-end developer looking for new opportu
 <img width="25px" style="padding:15px, 8px;" align="left" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img width="25px" style="padding:15px, 8px;" align="left" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="25px" style="padding:15px, 8px;" align="left" alt="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img width="25px" style="padding:15px, 8px;" align="left" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img width="25px" style="padding:15px, 8px;" align="left" alt="Vue JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img width="25px" style="padding:15px, 8px;" align="left" alt="React JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img width="25px" style="padding:15px, 8px;" align="left" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img width="25px" style="padding:15px, 8px;" align="left" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img width="25px" style="padding:15px, 8px;" align="left" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
