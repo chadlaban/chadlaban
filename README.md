@@ -1,36 +1,16 @@
-# :alien: Chad Laban
+# :alien: Chad B. Laban
 
-**`Digital Ambivert (Front-End Developer/Photographer/Home Cook/Curious Mind)`**
+**`Digital Ambivert (Software Developer/Photographer/Home Cook/Curious Mind)`**
 
-I'm a growing software developer and front-end developer looking for new opportunities to expand in my career. I love photography, food, and any ideas that's outside the box, I love to expressing my creativity through my projects and how I dress. I enjoy seeing projects grow from just ideas to actual design and code.
+I'm just a human being that has high interest with web development. I love photography, food, and any ideas that's outside the box, I love to expressing my creativity through my projects and how I dress up. I enjoy seeing projects grow from just ideas to actual design and code.
 
 ---
 
-### :space_invader: Tools and Languages
+### :space_invader: What keeps me motivated?
 
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="Vue JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="React JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="MochaJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="FileZilla" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-<img width="25px" style="padding:15px, 8px; margin-top:1rem;" align="left" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+When I started coding, things can be quite overwhelming, sometimes I get so many ideas that I want to create but don't get the results or output that I want. What keeps me going is that I think of why I started the idea, why I started to create it, what made me think of doing it, and what can I benefit from it on the long run. Also, I always make sure that I have time to breath and enjoy the little things outside of a project that I'm working on. I have a motto that I always stand by which is:
+<br />
+"Take things step by step, don't rush making an amazing sandwich."
 <br />
 
 #
@@ -43,9 +23,9 @@ I'm a growing software developer and front-end developer looking for new opportu
 
 <details>
  <summary><h3>:walking: Chad's Coding Journey</h3></summary>
-   I started studying for a medical degree during my time at the university and had a computer subject that really peaked my interest and was challenging for me in a good way. I shifted my study from a medical degree to Information Technology, it was fun and at the same time challenging for me but in every requirement that I have accomplished brought genuine happiness, after graduating I landed a technical support position in a software company here in my hometown; I learned soo much but it felt like I know that I can do more than what I think I can do (don't get me wrong I appreciated working as a tech. support/analyst). The company then had internal hirings for software developers and I grabbed that chance, luckily got accepted after my 2nd try applying; During the first weeks, it was challenging since I haven't practiced coding ever since I graduated from university, it felt like I was at the first step of coding again, but luckily I had great colleagues that not only helped me but also became my mentors. As time passes I started to realize why I even liked coding, in every project that I had handled there was always something new to learn, and also having great teammates adds to an awesome experience.
+   I started studying for a medical degree during my time at the university and had a computer subject that really peaked my interest and was challenging for me in a good way. I shifted my study from a medical degree to Information Technology, it was fun and at the same time challenging for me but in every requirement that I have accomplished brought genuine happiness. I landed my first tech job on my hometown as an analyst then transition to a software developer role, from then on I felt compelled to create or know more about web development, I then started to shift into a front-end developer role on another company as a warm up for me to test the waters. After a few months working on a contract project, my interest piqued and wanted to learn more about back-end development. As my interest keeps changing I always make sure that whatever job I apply in has something that can be beneficial for me on the future, and I always make time to learn more about other modern web development technologies being used now a days. Learning does not stop and is free in our industry...
    
-   <br />I loved coding not only because there's always something new to learn about it, but because there's always a place for someone on the industry.
+   <br />that's why I like coding, not only because there's always something new to learn about it, but because there's always a place for someone on the industry.
    
 [website]: https://rb.gy/ql6zu
 [linkedin]: https://rb.gy/glil3
