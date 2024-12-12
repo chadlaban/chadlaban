@@ -17,7 +17,7 @@ When I started coding, things can be quite overwhelming, sometimes I get so many
 and
 <br />
 <br />
-"Walk in your own path, but pick up something good along the way."
+"Don't overthink and don't complicate, the best solutions are always the simplest and sometimes its the first thing you thought of."
 <br />
 
 #
