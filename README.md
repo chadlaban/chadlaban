@@ -13,7 +13,9 @@ When I started coding, things can be quite overwhelming, sometimes I get so many
 <br />
 "Be many things, a tasty sandwich isn't just a piece of bread."
 <br />
+<br />
 and
+<br />
 <br />
 "Walk in your own path, but pick up something good along the way."
 <br />
