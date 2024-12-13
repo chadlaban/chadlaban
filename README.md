@@ -8,16 +8,8 @@ I'm just a human being that has high interest with web development. I love photo
 
 ### :space_invader: What keeps me motivated?
 
-When I started coding, things can be quite overwhelming, sometimes I get so many ideas that I want to create but don't get the results or output that I want. What keeps me going is that I think of why I started the idea, why I started to create it, what made me think of doing it, and what can I benefit from it on the long run. Also, I always make sure that I have time to breath and enjoy the little things outside of a project that I'm working on. I have a few qoutes that I always stand by (I know cringe... hahaha!) which is:
+When I started coding, things can be quite overwhelming, sometimes I get so many ideas that I want to create but don't get the results or output that I want. What keeps me going is that I think of why I started the idea, why I started to create it, what made me think of doing it, and what can I benefit from it on the long run. Also, I always make sure that I have time to breath and enjoy the little things outside of a project that I'm working on.
 <br />
-<br />
-"Be many things, a tasty sandwich isn't just a piece of bread."
-<br />
-<br />
-and
-<br />
-<br />
-"Don't overthink and don't complicate, the best solutions are always the simplest and sometimes its the first thing you thought of."
 <br />
 
 #
