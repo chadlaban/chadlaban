@@ -25,12 +25,6 @@ When I started coding, things can be quite overwhelming, sometimes I get so many
    I started studying for a medical degree during my time at the university and had a computer subject that really peaked my interest and was challenging for me in a good way. I shifted my study from a medical degree to Information Technology, it was fun and at the same time challenging for me but in every requirement that I have accomplished brought genuine happiness. I landed my first tech job on my hometown as an analyst then transition to a software developer role, from then on I felt compelled to create or know more about web development, I then started to shift into a front-end developer role on another company as a warm up for me to test the waters. After a few months working on a contract project, my interest piqued and wanted to learn more about back-end development. As my interest keeps changing I always make sure that whatever job I apply in has something that can be beneficial for me on the future, and I always make time to learn more about other modern web development technologies being used now a days. Learning does not stop and is free in our industry...
    
    <br />that's why I like coding, not only because there's always something new to learn about it, but because there's always a place for someone on the industry.
-   
-[website]: https://rb.gy/ql6zu
-[linkedin]: https://rb.gy/glil3
-[youtube]: https://rb.gy/svvnu
-[instagram]: https://rb.gy/p29c9
-[facebook]: https://rb.gy/rh5tp
  
 <!--
 **chadlaban/chadlaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
