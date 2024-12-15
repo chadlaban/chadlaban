@@ -14,9 +14,9 @@ When I started coding, things can be quite overwhelming, sometimes I get so many
 
 #
 
-![Alt Text](https://giphy.com/embed/CuuSHzuc0O166MRfjt)
+![Alt Text]([https://giphy.com/embed/CuuSHzuc0O166MRfjt](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJrM2pzbDhvamhtNDY5OXR1dmo2c3F3eHJqcDR1bjZzZnh5eTAzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp))
 <br>
-<img src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="100%" height="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJrM2pzbDhvamhtNDY5OXR1dmo2c3F3eHJqcDR1bjZzZnh5eTAzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" width="100%" height="100%" />
 
 #
 
