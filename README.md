@@ -14,7 +14,9 @@ When I started coding, things can be quite overwhelming, sometimes I get so many
 
 #
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+![Alt Text](https://giphy.com/embed/CuuSHzuc0O166MRfjt)
+<br>
+<img src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="100%" height="100%" />
 
 #
 
