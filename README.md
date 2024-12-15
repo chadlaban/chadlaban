@@ -22,7 +22,7 @@ When I started coding, things can be quite overwhelming, sometimes I get so many
 #
 
 <details>
- <h3>:walking: Chad's Coding Journey</h3>
+ <summary><h3>:walking: Chad's Coding Journey</h3></summary>
    I started studying for a medical degree during my time at the university and had a computer subject that really peaked my interest and was challenging for me in a good way. I shifted my study from a medical degree to Information Technology, it was fun and at the same time challenging for me. I landed my first tech job on my hometown as an analyst then transition to a software developer role, from then on I felt compelled to create or know more about web development, I then started to shift into a front-end developer role on another company as a warm up for me to test the waters. Just a few months I already realized that I like what I'm doing and that I'm always open to new things whether it's about front-end development or back-end development, even though it can be a bit tough especially if you're new to a technology, but it just becomes a part of what you already know because some concepts are just similar to what you already have or have done.
  
 <!--
