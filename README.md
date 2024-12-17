@@ -8,7 +8,7 @@ I'm just someone that likes doing anything with web development, from converting
 
 ### :space_invader: What keeps me motivated?
 
-When I started coding, things can be quite overwhelming, sometimes I get so many ideas that I want to create but don't get the results or output that I want. What keeps me going is that I think of why I started the idea, why I started to create it, what made me think of doing it, and what can I benefit from it on the long run. Also, I always make sure that I have time to breath and enjoy the little things outside work or any project that I'm on.
+When I began coding, it was often overwhelming with many ideas but not always the desired results. What keeps me motivated is remembering why I started each project and its long-term benefits. I also ensure to take breaks and enjoy the little things outside of work.
 <br />
 <br />
 
@@ -23,7 +23,7 @@ When I started coding, things can be quite overwhelming, sometimes I get so many
 
 <details>
  <summary><h3>:walking: Chad's Coding Journey</h3></summary>
-   I started studying for a medical degree during my time at the university and had a computer subject that really peaked my interest and was challenging for me in a good way. I shifted my study from a medical degree to Information Technology, it was fun and at the same time challenging for me. I landed my first tech job on my hometown as an analyst then transition to a software developer role, from then on I felt compelled to create or know more about web development, I then started to shift into a front-end developer role on another company as a warm up for me to test the waters. Just a few months I already realized that I like what I'm doing and that I'm always open to new things whether it's about front-end development or back-end development, even though it can be a bit tough especially if you're new to a technology, but it just becomes a part of what you already know because some concepts are just similar to what you already have or have done.
+   I initially pursued a medical degree at university but found my passion in a computer subject. I switched to Information Technology, which was both fun and challenging. I started my tech career as an analyst in my hometown, then transitioned to a software developer role. This sparked my interest in web development, leading me to a front-end developer role at another company. I quickly realized my love for both front-end and back-end development, embracing new technologies and concepts along the way.
  
 <!--
 **chadlaban/chadlaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
