@@ -8,7 +8,7 @@ I'm just someone that likes doing anything with web development, from converting
 
 ### :space_invader: What keeps me motivated?
 
-When I began coding, it was often overwhelming with many ideas but not always the desired results. What keeps me motivated is remembering why I started each project and its long-term benefits. I also ensure to take breaks and enjoy the little things outside of work.
+When I began coding, it was completely something I did not know and because of that I was easily overwhelmed and frustrated, then I spiralled into complete insanity (JK.. haha). What keeps me motivated is remembering that I have free will to do things slow, to learn things step-by-step, and to reach out or check into the dev community; also recalling why I even started a project and what can I gain along the way. I also make sure to take breaks and enjoy the little things outside of work.
 <br />
 <br />
 
