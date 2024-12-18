@@ -23,7 +23,7 @@ When I began coding, it was completely something I did not know and because of t
 
 <details>
  <summary><h3>:walking: Chad's Coding Journey</h3></summary>
-   I initially pursued a medical degree at university but found my passion in a computer subject. I switched to Information Technology, which was both fun and challenging. I started my tech career as an analyst in my hometown, then transitioned to a software developer role. This sparked my interest in web development, leading me to a front-end developer role at another company. I quickly realized my love for both front-end and back-end development, embracing new technologies and concepts along the way.
+   I initially pursued a medical degree at university but then found my ineterest in software development because of a computer subject, I switched my degree to Information Technology because of it. I started my tech career as an analyst in my hometown, then moved to a software developer role that focused on SaaS products. This sparked my interest in web development, leading me to a front-end developer role at another company. At first I thought that I'm just a front-end type of person but I quickly realized my interest for both front-end and back-end development from my current company, for now I'm open to any roles that can help me gain more knowledge on both frontend or backend that could help me become a full stack developer in the future.
  
 <!--
 **chadlaban/chadlaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
