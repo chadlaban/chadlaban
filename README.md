@@ -6,7 +6,7 @@ I'm just someone that likes doing anything with web development, from converting
 
 ---
 
-## 🛠️ Skills
+### 🛠️ Technologies I was able to work with:
 
 ![HTML](https://img.shields.io/badge/HTML-FF5722?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
