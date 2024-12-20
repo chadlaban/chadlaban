@@ -7,6 +7,10 @@ I'm just someone that likes doing anything with web development, from converting
 
 ### 🛠️ Technologies I was able to work with:
 
+<table style="border-collapse: collapse; border: none;">
+<tr>
+  <td valign="top" width="60%">
+   
 ![Static Badge](https://img.shields.io/badge/FRONTEND-393A3F)
 ![HTML](https://img.shields.io/badge/-HTML-FF5722?style=plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=white)
@@ -43,8 +47,12 @@ I'm just someone that likes doing anything with web development, from converting
 
 ![Static Badge](https://img.shields.io/badge/CONTAINER-393A3F)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
-
-#
+</td>
+  <td valign="middle" align="center" width="40%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chadlaban&show_icons=true&locale=en&layout=compact" alt="chadlaban" />
+  </td>
+</tr>
+</table>
 
 ![name-fast-compressed](https://github.com/user-attachments/assets/8c317be8-a9f0-402e-9742-f30e759a1dc1)
 
