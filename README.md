@@ -33,6 +33,7 @@ I'm just someone that likes doing anything with web development, from converting
 ![Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=plastic&logo=aws-lambda&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/DATABASE-393A3F)
+![SnowFlake](https://img.shields.io/badge/-Snowflake-336791?style=plastic&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
 
@@ -47,6 +48,7 @@ I'm just someone that likes doing anything with web development, from converting
 
 ![Static Badge](https://img.shields.io/badge/CONTAINER-393A3F)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+
 </td>
   <td valign="middle" align="center" width="40%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chadlaban&show_icons=true&locale=en&layout=compact" alt="chadlaban" />
